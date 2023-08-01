@@ -1,0 +1,21 @@
+C:\Users\USAMA\source\repos\GPU Price Scanner\bin\Debug\net5.0\GPU Price Scanner.exe
+C:\Users\USAMA\source\repos\GPU Price Scanner\bin\Debug\net5.0\GPU Price Scanner.deps.json
+C:\Users\USAMA\source\repos\GPU Price Scanner\bin\Debug\net5.0\GPU Price Scanner.runtimeconfig.json
+C:\Users\USAMA\source\repos\GPU Price Scanner\bin\Debug\net5.0\GPU Price Scanner.runtimeconfig.dev.json
+C:\Users\USAMA\source\repos\GPU Price Scanner\bin\Debug\net5.0\GPU Price Scanner.dll
+C:\Users\USAMA\source\repos\GPU Price Scanner\bin\Debug\net5.0\ref\GPU Price Scanner.dll
+C:\Users\USAMA\source\repos\GPU Price Scanner\bin\Debug\net5.0\GPU Price Scanner.pdb
+C:\Users\USAMA\source\repos\GPU Price Scanner\obj\Debug\net5.0\GPU Price Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USAMA\source\repos\GPU Price Scanner\obj\Debug\net5.0\GPU Price Scanner.AssemblyInfoInputs.cache
+C:\Users\USAMA\source\repos\GPU Price Scanner\obj\Debug\net5.0\GPU Price Scanner.AssemblyInfo.cs
+C:\Users\USAMA\source\repos\GPU Price Scanner\obj\Debug\net5.0\GPU Price Scanner.csproj.CoreCompileInputs.cache
+C:\Users\USAMA\source\repos\GPU Price Scanner\obj\Debug\net5.0\GPU Price Scanner.dll
+C:\Users\USAMA\source\repos\GPU Price Scanner\obj\Debug\net5.0\ref\GPU Price Scanner.dll
+C:\Users\USAMA\source\repos\GPU Price Scanner\obj\Debug\net5.0\GPU Price Scanner.pdb
+C:\Users\USAMA\source\repos\GPU Price Scanner\obj\Debug\net5.0\GPU Price Scanner.genruntimeconfig.cache
+C:\Users\USAMA\source\repos\GPU Price Scanner\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\USAMA\source\repos\GPU Price Scanner\bin\Debug\net5.0\WebDriver.dll
+C:\Users\USAMA\source\repos\GPU Price Scanner\obj\Debug\net5.0\GPU Price Scanner.csproj.CopyComplete
+C:\Users\USAMA\source\repos\GPU Price Scanner\bin\Debug\net5.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\USAMA\source\repos\GPU Price Scanner\bin\Debug\net5.0\WebDriver.Support.dll
+C:\Users\USAMA\source\repos\GPU Price Scanner\obj\Debug\net5.0\GPU Price Scanner.csproj.AssemblyReference.cache

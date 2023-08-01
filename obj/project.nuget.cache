@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "OVOmm9wxgdUk6aOeWFULTtGFizeiCF8BPoMfrIzJb0KUK+uPkHXsIxZbDnmIJCp18ZYSOh+QDJZSU0aX/hCxwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USAMA\\source\\repos\\GPU Price Scanner\\GPU Price Scanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USAMA\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\USAMA\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\USAMA\\.nuget\\packages\\selenium.support\\4.0.1\\selenium.support.4.0.1.nupkg.sha512",
+    "C:\\Users\\USAMA\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512",
+    "C:\\Users\\USAMA\\.nuget\\packages\\selenium.webdriver.chromedriver\\95.0.4638.6900\\selenium.webdriver.chromedriver.95.0.4638.6900.nupkg.sha512"
+  ],
+  "logs": []
+}
